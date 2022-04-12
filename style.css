@@ -1,0 +1,25 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#main-listing li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+hr {
+  width: 75%;
+  margin-left: 0;
+}
+
+.description, .description a {
+  font-weight: lighter;
+  color: rgb(110, 110, 110);
+}
+
+.description {
+  margin: 5px 0px 0px 0px;
+}
